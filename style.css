@@ -1,0 +1,32 @@
+h1{
+    color: rgb(164, 85, 238);
+    font-size: 32px;
+}
+h2{
+    color: rgb(13, 210, 13);
+}
+h3{
+color: rgb(13, 210, 13);
+}
+.login{
+    width: 25%;
+    height: 420px;
+    margin: 35%;
+    font-size: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#caixausuario1{
+    background-color: #b9bdb1;
+
+
+}
+#caixasenha1{
+    background-color: #b9bdb1;
+
+
+}
+#caixaexibir1{
+    margin: 2%;
+
+
+}
