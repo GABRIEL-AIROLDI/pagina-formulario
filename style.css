@@ -1,32 +1,100 @@
 h1{
     color: rgb(164, 85, 238);
     font-size: 32px;
+    font-family: verdana, sans-serif;
+    font-weight: 100;
 }
 h2{
-    color: rgb(13, 210, 13);
+    color: rgb(0, 0, 0);
 }
 h3{
-color: rgb(13, 210, 13);
+color: rgb(0, 0, 0);
+}
+h4{
+    margin-left: 150px;
+}
+.tcaixa{
+    font-size: medium;
 }
 .login{
     width: 25%;
     height: 420px;
-    margin: 35%;
+    margin-left: 400px;
     font-size: 7px;
     font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 0px 10px 0px black;
 }
 #caixausuario1{
     background-color: #b9bdb1;
-
-
+    width: 215px;
+    height: 20px;
+    margin-left: 20px;
 }
 #caixasenha1{
     background-color: #b9bdb1;
+    width: 215px;
+    height: 20px;
+    margin-left: 20px;
+}
+#caixaexibir1{
+    position: absolute;
+    margin-left: 130px;
+    margin-top: -40px;
+    width: 18px;
+    height: 18px;
+}
+.botao{
+    width: 285px;
+    height: 25px;
+    background-color: blue;
+    color: white;
+}
+.button{
+    width: 100px;
+    height: 30px;
+    margin: 2px;
 
 
 }
-#caixaexibir1{
-    margin: 2%;
-
-
+.titulo{
+    color: rgb(164, 85, 238);
+    font-size: 32px;
+    font-family: verdana, sans-serif;
+    font-weight: 100;
+}
+.cadastro{
+    width: 25%;
+    height: 420px;
+    margin-left: 400px;
+    font-size: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 0px 10px 0px black;   
+}
+#caixausuario2{
+    background-color: #b9bdb1;
+    width: 215px;
+    height: 20px;
+    margin-left: 20px;
+}
+#caixasenha2{
+    background-color: #b9bdb1;
+    width: 215px;
+    height: 20px;
+    margin-left: 20px;
+}
+#caixasenha3{
+    background-color: #b9bdb1;
+    width: 215px;
+    height: 20px;
+    margin-left: 20px;
+}
+#caixaexibir2{
+    position: absolute;
+    margin-left: 130px;
+    margin-top: -40px;
+    width: 18px;
+    height: 18px;
+}
+.putcomfirmar{
+    margin-top: -2%;
 }
